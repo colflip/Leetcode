@@ -1,4 +1,4 @@
-# 09
+# 30. 包含min函数的栈
 class CQueue:
 
     def __init__(self):
