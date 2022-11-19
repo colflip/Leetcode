@@ -1,4 +1,4 @@
-# Leetcode
+# leetcode-solutions
 
 coding record of Leetcode.
 
