@@ -24,6 +24,8 @@ class Solution:
                 left = mid + 1
         L = left
         return R - L + 1
+
+        # -----------------------
         # d=0
         # for i in nums:
         #     if target==i:
