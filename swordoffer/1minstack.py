@@ -1,4 +1,4 @@
-# 30. 包含min函数的栈
+# 剑指 Offer 30. 包含min函数的栈
 import math
 
 

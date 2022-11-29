@@ -1,4 +1,4 @@
-# 3 - I. 在排序数组中查找数字 I
+# 剑指 Offer 3 - I. 在排序数组中查找数字 I
 
 class Solution:
     def search(self, nums: List[int], target: int) -> int:

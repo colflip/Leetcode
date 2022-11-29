@@ -1,4 +1,4 @@
-# 47. 礼物的最大价值
+# 剑指 Offer 47. 礼物的最大价值
 
 class Solution:
     def maxValue(self, grid) -> int:

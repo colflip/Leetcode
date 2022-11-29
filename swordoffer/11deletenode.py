@@ -1,4 +1,4 @@
-# 18. 删除链表的节点
+# 剑指 Offer 18. 删除链表的节点
 
 
 # Definition for singly-linked list.

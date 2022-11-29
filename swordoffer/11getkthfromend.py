@@ -1,4 +1,4 @@
-# 22. 链表中倒数第k个节点
+# 剑指 Offer 22. 链表中倒数第k个节点
 
 # Definitionfor singly - linked list.
 class ListNode:

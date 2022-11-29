@@ -1,4 +1,4 @@
-# 10- II. 青蛙跳台阶问题
+# 剑指 Offer 10- II. 青蛙跳台阶问题
 from functools import lru_cache
 
 

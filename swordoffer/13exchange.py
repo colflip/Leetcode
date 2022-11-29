@@ -1,4 +1,4 @@
-# 21. 调整数组顺序使奇数位于偶数前面
+# 剑指 Offer 21. 调整数组顺序使奇数位于偶数前面
 
 class Solution:
     def exchange(self, nums: List[int]) -> List[int]:

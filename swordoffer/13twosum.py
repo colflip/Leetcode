@@ -1,4 +1,4 @@
-# 57.和为s的两个数字
+# 剑指 Offer 57.和为s的两个数字
 
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:

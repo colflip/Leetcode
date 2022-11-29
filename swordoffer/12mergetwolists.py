@@ -1,4 +1,4 @@
-# 25. 合并两个排序的链表
+# 剑指 Offer 25. 合并两个排序的链表
 
 # Definitionfor singly - linked list.
 class ListNode:

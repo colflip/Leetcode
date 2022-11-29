@@ -1,4 +1,4 @@
-# 26. 树的子结构
+# 剑指 Offer 26. 树的子结构
 
 # Definition for a binary tree node.
 # class TreeNode:

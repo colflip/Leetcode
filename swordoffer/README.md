@@ -1,3 +1,3 @@
-# sword to offer
+# sword-to-offer
 
-leetcode.cn code record, about https://leetcode.cn/study-plan/lcof/?progress=1mp5yvd
+It is the code record of leetcode.cn, address at https://leetcode.cn/study-plan/lcof/?progress=1mp5yvd.

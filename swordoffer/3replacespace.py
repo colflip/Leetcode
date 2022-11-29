@@ -1,5 +1,4 @@
-# 05
-# 替换空格
+# 剑指 Offer 05. 替换空格
 
 class Solution:
     def replaceSpace(self, s: str) -> str:

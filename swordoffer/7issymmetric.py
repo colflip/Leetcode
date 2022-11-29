@@ -1,4 +1,4 @@
-# 28. 对称的二叉树
+# 剑指 Offer 28. 对称的二叉树
 
 # Definition for a binary tree node.
 # class TreeNode:
